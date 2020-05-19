@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
 
 # Run migrations
-python manage.py migrate
+python /app/manage.py migrate
